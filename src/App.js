@@ -10,7 +10,7 @@ const Title = 'VoxPunksClub Labs'
 
 document.title = Title
 
-const address = "A9VmiRm9GaLGijpiNUBByR668kWr1UDdR5bua9NuMTnE"
+const address = "r74VH5E1Hz3uRgG15RjywGPJ9Cztw2yKQszFhofRZT5"
 
 function App() {
   const [inputValue, setInputValue] = useState(1)
