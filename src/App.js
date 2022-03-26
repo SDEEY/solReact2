@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.25
-const image = 'https://pbs.twimg.com/profile_images/1488313276069027844/6L4hhdd6_400x400.jpg'
-const Title = 'HoodFrogs_NFT'
+const solAmount = 0.45
+const image = 'https://pbs.twimg.com/profile_images/1481647232512249856/GZgnP6dn_400x400.jpg'
+const Title = 'THE DEGENERATE D.A.O'
 
 document.title = Title
 
