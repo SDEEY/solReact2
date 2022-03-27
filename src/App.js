@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.45
-const image = 'https://pbs.twimg.com/profile_images/1481647232512249856/GZgnP6dn_400x400.jpg'
-const Title = 'THE DEGENERATE D.A.O'
+const solAmount = 1.99
+const image = 'https://pbs.twimg.com/media/FO2vEpwX0AUehZn?format=png&name=large'
+const Title = 'Pirates of S◎L Bay'
 
 document.title = Title
 
