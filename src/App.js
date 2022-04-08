@@ -6,7 +6,7 @@ import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.15
 const image = 'https://pbs.twimg.com/profile_images/1509182169108865024/jgmcKk2o_400x400.jpg' 
-const Title = 'Lovable Mullo NFT'
+const Title = 'MutantRaccon'
 const supply = 100
 
 document.title = Title
