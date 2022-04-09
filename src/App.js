@@ -6,7 +6,7 @@ import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.09
 const image = 'https://media.discordapp.net/attachments/952199715250909284/962405864042541096/Degen_L.jpg?width=590&height=590' 
-const Title = 'Degen L'
+const Title = 'Degen Launch'
 const supply = 2111
 
 document.title = Title
