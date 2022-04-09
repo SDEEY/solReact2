@@ -5,7 +5,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.09
-const image = 'https://media.discordapp.net/attachments/906904143761920010/962405600485081158/16495257696281829978636083828528.jpg' 
+const image = 'https://media.discordapp.net/attachments/952199715250909284/962405864042541096/Degen_L.jpg?width=590&height=590' 
 const Title = 'Degen L'
 const supply = 2111
 
