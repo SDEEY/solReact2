@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.069
-const image = 'https://images-ext-2.discordapp.net/external/Xq3iRB_8kGhNckTDCAjZgy6n385ahwtKPpGC2OHD01E/https/pbs.twimg.com/profile_images/1515110178110283797/67NQDpM9_400x400.jpg' 
-const Title = 'Ogre Crew'
-const supply = 1776
+const solAmount = 0.2
+const image = 'https://images-ext-1.discordapp.net/external/NjKYAaTw9VwQVJV67aQG8NEXGkk_SX9pddicvWiA0-I/https/pbs.twimg.com/profile_images/1514507402954956800/lXwxuVE-_400x400.jpg' 
+const Title = 'Educators Club'
+const supply = 333
 
 document.title = Title
 
