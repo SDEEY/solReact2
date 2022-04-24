@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0.2
 const image = 'https://images-ext-2.discordapp.net/external/g35p88HwwO0GKnB-XkSVEkMe-BwYEydsRQlt73YdEDg/https/pbs.twimg.com/profile_images/1517906169335103498/0qvgB12r_400x400.jpg' 
 const Title = '20 YAKUZA’S'
-const supply = 20
+const supply = 10
 
 document.title = Title
 
