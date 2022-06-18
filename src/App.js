@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0
 const image = 'https://media.discordapp.net/attachments/941623741488709642/987519702215589968/IMG_0844.png' 
 const Title = 'Fiat Fighters'
-const supply = 1111
+const supply = 11000
 
 document.title = Title
 
