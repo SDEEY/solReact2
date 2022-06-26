@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1.5
-const image = 'https://media.discordapp.net/attachments/969693414809567363/987317734251565086/PANDAS_UPDATE.jpeg?width=610&height=610' 
-const Title = 'United Pandas Alliance'
-const supply = 3333
+const solAmount = 0.15
+const image = 'https://images-ext-1.discordapp.net/external/AkbimvbEutIkE8iI7IX5ZxbA-Lej7V_ynGr00M3iukM/%3Falt%3Dmedia%26token%3D3f58da11-ff1a-4b69-a6ec-2c44a585e7a8/https/firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%252FCY1JuCLwFsez27khNbNZejG3PtcsqmBVT2YegDAzgg37%252FCollections%252FlXuk3zfRjQNEiW0pstAc%252Fcover' 
+const Title = '𝐅𝐨𝐫𝐞𝐬𝐭 𝐌𝐚𝐧'
+const supply = 333
 
 document.title = Title
 
