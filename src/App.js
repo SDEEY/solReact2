@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 2
-const image = 'https://media.discordapp.net/attachments/984733033779318794/990625527847079996/unknown.png?width=610&height=610' 
-const Title = 'Curious APE'
-const supply = 10000
+const image = 'https://howrare.is/drop_logos/5341_7TQou3dQ.jpg' 
+const Title = 'Alchemy Alpha'
+const supply = 100
 
 document.title = Title
 
