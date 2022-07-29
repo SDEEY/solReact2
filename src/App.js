@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.069
-const image = 'https://howrare.is/drop_logos/5650_M6nbPzAN.jpg'
-const Title = 'Horny Intruders'
-const supply = 6969
+const image = 'https://howrare.is/drop_logos/5654_MLnzD_dH.jpg'
+const Title = 'Degen Escobar'
+const supply = 1111
 
 document.title = Title
 
