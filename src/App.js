@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1.3
-const image = 'https://howrare.is/drop_logos/4975_1XkxWtPt.jpg'
-const Title = 'SkyWings NFT'
-const supply = 7777
+const solAmount = 0
+const image = 'https://howrare.is/drop_logos/5629_CQhs3QkR_400x400.jpg'
+const Title = 'The wolves land'
+const supply = 222
 
 document.title = Title
 
