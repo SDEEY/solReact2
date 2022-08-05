@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.03
-const image = 'https://howrare.is/drop_logos/5697_d5AopENr.jpg'
-const Title = 'MoonApes DAO'
-const supply = 3333
+const solAmount = 0.05
+const image = 'https://howrare.is/drop_logos/5691_dpwNixky_400x400.jpg'
+const Title = 'Solottery'
+const supply = 500
 
 document.title = Title
 
