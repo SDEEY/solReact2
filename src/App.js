@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2
-const image = 'https://nftsolana.io/wp-content/uploads/2022/08/aoF3BXA2_400x400.jpeg'
-const Title = 'Rolling Youth Festival Pass NFT'
-const supply = 500
+const solAmount = 0.85
+const image = 'https://images-ext-1.discordapp.net/external/d0tulYgeQqB852EAkcB8u4m2ERnvaq31HqAr9PVd3YM/https/pbs.twimg.com/profile_images/1531787397461159938/5e5gdE5n_400x400.jpg'
+const Title = 'Product Testers'
+const supply = 555
 
 document.title = Title
 
