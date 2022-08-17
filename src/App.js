@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0
-const image = 'https://nftsolana.io/wp-content/uploads/2022/08/TheJojoSociety.jpg'
-const Title = 'The Jojo Society'
-const supply = 3333
+const image = 'https://pbs.twimg.com/profile_images/1552357155382374400/WquWZRur_400x400.jpg'
+const Title = 'MONQUIAT'
+const supply = 123
 
 document.title = Title
 
