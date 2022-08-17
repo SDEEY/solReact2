@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2.5
-const image = 'https://pbs.twimg.com/profile_images/1524169195600064512/4AqPFq4J_400x400.jpg'
-const Title = 'Volume Rocket NFT'
-const supply = 5000
+const solAmount = 0
+const image = 'https://nftsolana.io/wp-content/uploads/2022/08/TheJojoSociety.jpg'
+const Title = 'The Jojo Society'
+const supply = 3333
 
 document.title = Title
 
