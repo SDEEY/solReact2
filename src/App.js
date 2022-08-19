@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.1
-const image = 'https://pbs.twimg.com/profile_images/1529512149638434816/aLVa3Amm_400x400.jpg'
-const Title = 'Chimera Girls'
-const supply = 444
+const solAmount = 2.5
+const image = 'https://pbs.twimg.com/profile_images/1512461822049333260/lUDUGIp-_400x400.jpg'
+const Title = 'play_evio'
+const supply = 3866
 
 document.title = Title
 
