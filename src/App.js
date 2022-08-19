@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2.5
-const image = 'https://pbs.twimg.com/profile_images/1512461822049333260/lUDUGIp-_400x400.jpg'
-const Title = 'play_evio'
-const supply = 3866
+const solAmount = 0.089
+const image = 'https://pbs.twimg.com/profile_images/1556895380255789056/5v5hzsPc_400x400.jpg'
+const Title = 'Skool Of Degens'
+const supply = 4444
 
 document.title = Title
 
