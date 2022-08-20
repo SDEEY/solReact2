@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1.4
-const image = 'https://pbs.twimg.com/profile_images/1509619284871454721/DA9zaAJP_400x400.jpg'
-const Title = 'The Big 5 NFT Collection'
-const supply = 555
+const solAmount = 0.25
+const image = 'https://nftsolana.io/wp-content/uploads/2022/08/MetaverseMummy.jpg'
+const Title = 'Mummy Metaverse'
+const supply = 3333
 
 document.title = Title
 
