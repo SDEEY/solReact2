@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1
-const image = 'https://nftsolana.io/wp-content/uploads/2022/08/l3weniqh_400x400.jpeg'
-const Title = 'Weed Lab V2'
-const supply = 2000
+const solAmount = 0.3
+const image = 'https://pbs.twimg.com/profile_images/1556760830322016256/QMNx_uG9_400x400.jpg'
+const Title = 'CrazylabCrew_NFT'
+const supply = 6666
 
 document.title = Title
 
