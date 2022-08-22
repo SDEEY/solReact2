@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.12
-const image = 'https://howrare.is/drop_logos/5789_imgonline-com-ua-Resize-uS2SUgf3QBd9WC.jpg'
-const Title = 'Solana Warriors'
-const supply = 777
+const solAmount = 0.99
+const image = 'https://nftsolana.io/wp-content/uploads/2022/08/FY7GJrJWAAA0iqb.jpeg'
+const Title = 'Bit Warriors'
+const supply = 5555
 
 document.title = Title
 
