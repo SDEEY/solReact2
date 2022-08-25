@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1.6
-const image = 'https://pbs.twimg.com/media/Fa-ujmNVsAAJwN9?format=jpg&name=large'
-const Title = 'Bigf00t Town | Round 2'
-const supply = 6984
+const solAmount = 1
+const image = 'https://pbs.twimg.com/profile_images/1535752507468795905/mMv60D1x_400x400.jpg'
+const Title = 'Mutant Otters'
+const supply = 999
 
 document.title = Title
 
