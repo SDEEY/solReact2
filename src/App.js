@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1524455776449925121/LIjjQlUV_400x400.jpg'
-const Title = 'Drachma'
-const supply = 4444
+const solAmount = 1.6
+const image = 'https://pbs.twimg.com/media/Fa-ujmNVsAAJwN9?format=jpg&name=large'
+const Title = 'Bigf00t Town | Round 2'
+const supply = 6984
 
 document.title = Title
 
