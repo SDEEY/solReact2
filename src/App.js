@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 6.2
 const image = 'https://pbs.twimg.com/profile_images/1521569041193787405/zxsiitvg_400x400.png'
 const Title = 'Clarity DAO'
-const supply = 200
+const supply = 100
 
 document.title = Title
 
