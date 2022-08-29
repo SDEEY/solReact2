@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0
-const image = 'https://howrare.is/drop_logos/5853_NseGePeA.jpg'
-const Title = 'Gang of D. City'
-const supply = 9999
+const image = 'https://pbs.twimg.com/profile_images/1551846328862670848/R-yXf9xd_400x400.jpg'
+const Title = 'Shinobies'
+const supply = 5000
 
 document.title = Title
 
