@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.1
-const image = 'https://pbs.twimg.com/profile_images/1557062427543470087/WPzVfRWP_400x400.jpg'
-const Title = 'Saga Of Veil'
-const supply = 1660
+const solAmount = 1
+const image = 'https://howrare.is/drop_logos/5834_1w8ML4R1.jpg'
+const Title = 'SolTinker NFT'
+const supply = 2222
 
 document.title = Title
 
