@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.69
-const image = 'https://nftsolana.io/wp-content/uploads/2022/08/zFsurO0_400x400.jpeg'
-const Title = 'Idolz Casino'
-const supply = 998
+const solAmount = 0.9
+const image = 'https://pbs.twimg.com/profile_images/1559980482808451073/l-BhZZLF_400x400.jpg'
+const Title = 'PHANTOM PENGUINS'
+const supply = 500
 
 document.title = Title
 
