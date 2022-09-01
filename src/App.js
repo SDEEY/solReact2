@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 1.68
 const image = 'https://howrare.is/drop_logos/5713_oSkmbPT7.jpg'
 const Title = 'Acid Monkeys'
-const supply = 5000
+const supply = 2000
 
 document.title = Title
 
