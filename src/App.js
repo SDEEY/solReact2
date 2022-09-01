@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.77
-const image = 'https://pbs.twimg.com/profile_images/1530904394543161347/yDkOuJ1__400x400.jpg'
-const Title = 'Blatant'
-const supply = 3333
+const solAmount = 0
+const image = 'https://howrare.is/drop_logos/5679_uoW72pQi.jpg'
+const Title = 'Solana Hits | FREE MINT - PHASE 2'
+const supply = 672
 
 document.title = Title
 
