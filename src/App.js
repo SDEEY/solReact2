@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0.069
 const image = 'https://pbs.twimg.com/media/FbzTGksXEAEAmAQ?format=jpg&name=large'
 const Title = 'Divina Comedy'
-const supply = 2999
+const supply = 1874
 
 document.title = Title
 
