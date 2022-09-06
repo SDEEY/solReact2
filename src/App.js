@@ -5,7 +5,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.2
-const image = 'https://pbs.twimg.com/profile_images/1554575280580222977/7ZgnaMXG_400x400.jpg'
+const image = 'https://static9.depositphotos.com/1307373/1179/i/600/depositphotos_11794280-stock-photo-red-apple.jpg'
 const Title = 'Sensei Labs'
 const supply = 750
 
