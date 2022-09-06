@@ -109,3 +109,15 @@ header img{
   border-radius: 50%;
   top: -8px;
 }
+
+@media (max-width: 900px ) {
+    .App{
+        display: block;
+        text-align: center;
+    }
+
+    .App img{
+        width: 350px;
+        margin-right: 0;
+    }
+}
