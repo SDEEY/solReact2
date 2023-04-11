@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0
-const image = 'https://pbs.twimg.com/media/FcbB8ojaIAAehQD?format=jpg&name=small'
-const Title = 'GMers NFT'
-const supply = 50000
+const image = 'https://pbs.twimg.com/profile_images/1633187685459173376/Tub1L12B_400x400.jpg'
+const Title = 'secret monkey'
+const supply = 222
 
 document.title = Title
 
